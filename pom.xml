@@ -6,7 +6,7 @@
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
 	
-	<version>0.0.3-SNAPSHOTS</version> 
+	<version>0.0.3-SNAPSHOT</version> 
 	
 	<name>maven-web-application</name>
 
@@ -96,7 +96,7 @@
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
 	      <url>http://3.136.11.19:8081/repository/Tesla-release</url>
-	    </releaserepository>
+	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
